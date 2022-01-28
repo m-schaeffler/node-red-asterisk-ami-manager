@@ -29,7 +29,7 @@
       "name": "Alexey Sviridov"
     }
   ],
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "asterisk-manager": "^0.1.16"
   }
