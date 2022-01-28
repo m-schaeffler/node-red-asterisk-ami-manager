@@ -1,7 +1,15 @@
 {
-  "name": "node-red-asterisk-ami-manager",
-  "version": "0.0.10",
+  "name": "node-red-asterisk-ami-manager-fork",
+  "version": "1.0.0",
   "description": "Transfer Asterisk AMI events to json object string representation",
+  "homepage": "https://github.com/m-schaeffler/node-red-asterisk-ami-manager#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-schaeffler/node-red-asterisk-ami-manager.git"
+  },
+  "engines": {
+    "node": ">=12"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +21,14 @@
       "asterisk-websocket": "asterisk-ami-manager/asterisk-ami-manager.js"
     }
   },
-  "author": "Alexey Sviridov",
+  "author": {
+    "name": "Mathias Schäffler"
+  },
+  "contributors": [
+    {
+      "name": "Alexey Sviridov"
+    }
+  ],
   "license": "ISC",
   "dependencies": {
     "asterisk-manager": "^0.1.16"
