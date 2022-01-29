@@ -1,6 +1,6 @@
 {
   "name": "node-red-asterisk-ami-manager-fork",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transfer Asterisk AMI events to json object string representation",
   "homepage": "https://github.com/m-schaeffler/node-red-asterisk-ami-manager#readme",
   "repository": {
@@ -29,7 +29,7 @@
       "name": "Alexey Sviridov"
     }
   ],
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "asterisk-manager": "^0.1.16"
   }
