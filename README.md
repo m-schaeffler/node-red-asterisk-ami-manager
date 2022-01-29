@@ -5,7 +5,7 @@ Communicate from Node-Red to an Asterisk server via AMI as a simple node.
 ## Install
 
 ```
-$ npm install node-red-asterisk-ami-manager
+$ npm install node-red-asterisk-ami-manager-fork
 ```
 
 ## Usage
