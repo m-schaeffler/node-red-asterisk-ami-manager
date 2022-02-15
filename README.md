@@ -31,8 +31,7 @@ events: events separated by a comma which will be filtered or stay field empty f
 
 ## License
 
-MIT License
------------
+### MIT License
 
 Copyright (C) 2022 by
 
