@@ -2,13 +2,16 @@
 
 Communicate from Node-Red to an Asterisk server via AMI as a simple node. 
 
+![image of example flow](https://github.com/m-schaeffler/node-red-asterisk-ami-manager/raw/master/examples/Asterisk-AMI.png)
+
 ## Install
 
 ```
-$ npm install node-red-asterisk-ami-manager-fork
+$ npm install @mschaeffler/node-red-asterisk-ami-manager
 ```
 
 ## Usage
+
 Simple drag component "Asterisk AMI" from node's group "input" to flow. Then set up main options:
 Name: component name
 ip: host server
@@ -16,6 +19,11 @@ port: port server
 username: username for authentication
 password: username's password for authentication
 events: events separated by a comma which will be filtered or stay field empty for forwarding all events.
+
+## Example Flow
+
+[example flow](https://github.com/m-schaeffler/node-red-asterisk-ami-manager/raw/master/examples/Asterisk-AMI.json)
+
 ## Contributors
 
 * [Mathias Schäffler](https://github.com/m-schaeffler)
