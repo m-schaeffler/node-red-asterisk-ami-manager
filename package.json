@@ -1,6 +1,6 @@
 {
   "name": "@mschaeffler/node-red-asterisk-ami-manager",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Transfer Asterisk AMI events to json object string representation",
   "homepage": "https://github.com/m-schaeffler/node-red-asterisk-ami-manager#readme",
   "repository": {
